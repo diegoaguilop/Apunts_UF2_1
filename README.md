@@ -19,8 +19,21 @@ Les finalitats de fer les proves de software serien:
 
 ### **Estratègies de prova**
 
-* **Caixa negra:** S'estudia el sistema des de fora. Són proves de funcionalitat.
-
 * **Caixa blanca:** S'examina el codi font i la seva execució. Són proves estructurals.
+  * Es treballa sobre la interfície.
+  * No es tenen en compte els detalls interns de funcionament.
+  * Es proporcionen entrades i s'estudien les sortides.
+  * Principals tècniques:
+    * Particions d'equivalència.
+    * valors límit.
+
+* **Caixa negra:** S'estudia el sistema des de fora. Són proves de funcionalitat.
+  * Es comproven els fluxos d'execució dins de cada unitat (funció, classe, mòdul, etc.)
+  * També poden comprovar els fluxos entre unitats durant la integració.
+  * I fins i tot entre subsistemes, durant les proves de sistema.
+  * Principals tècniques:
+    * Cobertura de codi.
+    * Prova de bucles.
 
 ![](proves_caixes.png)
+----------------------
