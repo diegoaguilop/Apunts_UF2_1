@@ -37,3 +37,30 @@ Les finalitats de fer les proves de software serien:
 
 ![](proves_caixes.png)
 ----------------------
+
+### **Tipus de proves**
+
+* **Funcionals:** Avaluen el compliment dels requisits.
+ * Proves unitàries (o d'unitat).
+ * Proves de regressió.
+ * Proves d'integració.
+ * Proves de fum (proba de foc).
+ * Proves de sistema.
+ * Proves alfa i beta.
+ * Proves d'acceptació (validació per part de client).
+
+* **No funcionals:** Avaluen aspectes addicionals com rendiment, seguretat, compatibilitat, ...
+ * Proves d'usabilitat.
+ * Proves de rendiment.
+ * Proves d'estrés.
+ * Proves de seguretat.
+ * Proves de compatibilitat.
+ * Proves de portabilitat.
+ * etc...
+ ----------------------
+ 
+ ### **Mecanismes de prova**
+ 
+ * **Manual:** Mitjançant proves realitzades per personal de l'empresa o extern.
+ 
+ * **Automàtic:** Mitjançant programari que executa codi de forma automatitzada i compara els resultats obtinguts i els resultats esperats.
