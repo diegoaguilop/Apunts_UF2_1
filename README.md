@@ -25,7 +25,7 @@ Les finalitats de fer les proves de software serien:
   * Es proporcionen entrades i s'estudien les sortides.
   * Principals tècniques:
     * Particions d'equivalència.
-    * valors límit.
+    * Valors límit.
 
 * **Caixa negra:** S'estudia el sistema des de fora. Són proves de funcionalitat.
   * Es comproven els fluxos d'execució dins de cada unitat (funció, classe, mòdul, etc.)
