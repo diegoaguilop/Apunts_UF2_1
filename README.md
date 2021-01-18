@@ -160,4 +160,4 @@ La diferencia és que el QA és centra en els metodes un a un i el QC és centra
 
 * Interoperativitat: Busquem que el software és pugui comunicar amb un altre sistema si és necessari.
 
-![](model_mccall.png)
+![](model_mccall.jpg)
